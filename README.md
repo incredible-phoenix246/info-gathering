@@ -48,19 +48,19 @@ Before you begin, ensure you have the following:
    git clone https://github.com/yourusername/information-gathering-script.git
     ```
 
-Navigate to the project folder:
+## Navigate to the project folder:
 
     ```
     cd information-gathering-script
     ```
 
-Run the script:
+## Run the script:
 
     ```
     python information_gathering.py
     ```
 
-Usage
+## Usage
 
     Run the script as instructed above.
     Enter the target domain when prompted.
