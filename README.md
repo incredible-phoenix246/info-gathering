@@ -42,28 +42,25 @@ Before you begin, ensure you have the following:
 
 ### Installation
 
- Clone the repository:
+1. Clone the repository:
 
    ```
    git clone https://github.com/yourusername/information-gathering-script.git
     ```
 
-
-### Installation
+2. Navigate to the project folder
 
     ```
     cd information-gathering-script
     ```
 
-
-## Run the script:
+3. Run the script:
 
     ```
     python information_gathering.py
     ```
 
-
-## Usage
+4. Usage
 
     Run the script as instructed above.
     Enter the target domain when prompted.
@@ -71,6 +68,6 @@ Before you begin, ensure you have the following:
 
 
 
-Contributing
+## Contributing
     Contributions are welcome! Please see the Contributing Guidelines for more information on how to contribute to this project.
 
