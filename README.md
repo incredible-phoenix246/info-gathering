@@ -48,11 +48,13 @@ Before you begin, ensure you have the following:
    git clone https://github.com/yourusername/information-gathering-script.git
     ```
 
-## Navigate to the project folder:
+
+### Installation
 
     ```
     cd information-gathering-script
     ```
+
 
 ## Run the script:
 
@@ -60,11 +62,13 @@ Before you begin, ensure you have the following:
     python information_gathering.py
     ```
 
+
 ## Usage
 
     Run the script as instructed above.
     Enter the target domain when prompted.
     The script will perform the specified information gathering tasks and display the results.
+
 
 
 Contributing
